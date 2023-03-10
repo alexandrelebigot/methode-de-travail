@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Méthode de travail</title>
+</head>
+<body>
+    <h1>Méthode de travail</h1>
+    <p>Bacon débutait généralement un tableau en esquissant grossièrement la composition directement sur la toile, en fines couches de peinture à l’huile.
+    Le travail préparatoire de la conception des images prenait souvent la forme de brèves notes écrites à la main et de manipulation de photographies.
+Depuis l’invention de la photographie, de nombreux artistes, de Degas à Warhol en passant par Picasso, ont exploité des « reproductions mécaniques ».
+Bacon transformait des images photographiques souvent banales en peintures d’une puissance exceptionnelle. 
+Il était extrêmement secret sur ses pratiques opératoires non conventionnelles ;
+même ses intimes étaient rarement autorisés à explorer les milliers de livres 
+et de revues précairement entassés sur les étagères de son atelier ou la multitude d’images éparpillées sur le sol. 
+Le dialogue entre les nus de Bacon et les études cinétiques de Muybridge a été identifié dès 1950, tout comme son admiration pour Vélasquez, Michel-Ange et Rembrandt, 
+mais c’est seulement après la mort du peintre qu’il est devenu possible de commencer à cerner le vaste champ de ses stimulants visuels.</p>
+
+    <p>Peu d’archives antérieures à 1961 subsistaient encore à la mort de Bacon. Au fil des trente et un ans passés dans l’atelier de Reece Mews, 
+        Bacon a régulièrement effectué de grands nettoyages, lorsque l’accumulation de détritus sur le sol de l’atelier devenait – même à ses yeux – vraiment excessive.
+        Il détruisit ainsi en 1981 vingt-quatre sacs de ces documents, y compris – au grand dam de Valerie Beston de la Marlborough Gallery – tous ses exemplaires du magazine Picture Post.
+        On commence à mieux comprendre aujourd’hui la synthèse complexe de ses sources iconographiques ; pour autant, même si les images découvertes dans la presse éveillaient en lui de puissantes résonances, 
+    le processus de création ne doit pas être confondu avec le résultat final, qui dépendait de sa capacité à produire une peinture fluide et spontanée. Comme Bacon le déclarait à Sonia Orwell en 1954 : 
+    « Je veux peindre, pas courir après les coupures de presse. » Afin de « capturer la réalité vivante », il recherchait la qualité spectrale du corps humain en action, 
+    métamorphosant des images plates en évocations vibrantes de ses sujets vivant et respirant dans leur éphémère fragilité.
+
+    <UL> 
+      <LI><A HREF="https://francisbacon.netlify.app/" TITLE="retour au menu"  TARGET="_blank">Menu principal</a></LI>
+    </UL>
+</body>
+</html>
